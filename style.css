@@ -1,0 +1,198 @@
+/****************************
+/ © Copyright Hayden Coe 2020 	
+****************************/
+
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+html,body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  background-color:#161C21;
+
+}
+
+header{
+  width:100%;
+  height:300px;
+  background-color:#161C21;
+  float:left;
+}
+
+h1{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:6vw;
+/*   margin-top:50vh; */
+}
+
+#header1{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:6vw;
+  opacity: 1;
+/*    margin-top:0vh; */
+/*   display: none; */
+ }
+
+
+
+#header2{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:2vw;
+  opacity: 0.5;
+/*    margin-top:0vh; */
+/*   display: none; */
+ }
+
+#header3{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:2vw;
+   opacity: 0.5;
+/*    margin-top:0vh; */
+   display: none;
+}
+
+#header4{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:2vw;
+   opacity: 0.5;
+/*    margin-top:0vh; */
+   display: none;
+}
+
+
+#header5{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:2vw;
+  opacity: 0.5;
+/*    margin-top:0vh; */
+   display: none;
+}
+
+
+.zero {
+	
+	 margin-top:0vh;
+    margin-bottom: auto;
+}
+
+
+
+#spacer {
+	
+	height: 40vh; 
+	
+}
+
+
+h2{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:4vw;
+  margin-top:10vh;
+}
+
+h3{
+  float:left;
+  width:100%;
+  text-align:left;
+  font-family:'Quicksand', cursive;
+  color:#C4538A;
+  font-size:2vw;
+ 
+}
+
+h4{
+  float:left;
+  width:100%;
+  text-align:center;
+  font-family:'Quicksand', cursive;
+  color:#A5A6AA;
+  font-size:3vw;
+  margin-top:10vh;
+}
+
+
+
+section{
+  width:100%;
+  min-height:100%;
+  float:left;
+  position:relative
+}
+
+.sticky{
+  height:100%;
+  width:20%;
+  float:left;
+  position:absolute;
+
+}
+.sticky.fixy{
+  position:fixed; 
+  top:0;
+  left:0;
+}
+
+.sticky.bottom{
+  position:absolute;
+  bottom:0;
+}
+
+
+.scrolling{
+  float:right;
+  width:80%;
+  padding:20px;
+  background-color:#161C21;
+
+}
+p{
+  font-size:15pt;
+  color:#A5A6AA;
+}
+
+#copyright {
+	
+	text-align: center;
+    margin-top: 40px;
+
+}
+
+#copyright-text {
+
+  font-family:'Quicksand', cursive;
+  color:#C4538A;
+
+}
+
+
