@@ -1,2 +1,2 @@
 # year-scrolling
-Year changing design that changes when scrolling through sections of text. 
+JavaScript based year changing animation that changes when scrolling through sections of text. 
